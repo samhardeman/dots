@@ -1,2 +1,4 @@
 //@theme "/usr/share/rofi/themes/android_notification.rasi"
-@theme "/usr/share/rofi/themes/fancy.rasi"
+//@theme "/usr/share/rofi/themes/fancy.rasi"
+
+@theme "/nix/store/435xb3rkg4dj4ilpzgqxww30v5sav3d9-rofi-1.7.5+wayland3/share/rofi/themes/fancy.rasi"
