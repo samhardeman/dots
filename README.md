@@ -17,9 +17,13 @@ after files are edited:
 
 `git add .config/hypr/hyprland.conf` or whatever files you edited
 
-to push:
+to commit changes:
 
 `git commit -m "commit message"`
+
+to push changes:
+
+`git push origin main` to force it pass -f
 
 if you don't have the files:
 
