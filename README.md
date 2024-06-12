@@ -24,4 +24,7 @@ to push:
 if you don't have the files:
 
 `git clone git@github.com:name/dots.git .` the dot specifies that the files go here
-  
+
+if you need to get new files:
+
+`git pull origin main` 
