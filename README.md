@@ -4,16 +4,25 @@
 
 *featuring*
 - hyprland
-- ~~hyprpaper~~
+- hyprpaper
 - swww
 - hyprlock
 - kitty
 - rofi
+- tofi
 - waybar
 - bashrc
 - nnn
 - wallpapers
 - dunst
+
+## information
+the hyprland config is split up into separate files so i can easily edit individual parts of the configuration and not deal with a very log file.
+- keybinds.conf manages the keybinds
+- appearance.conf manages settings like border-radius, gaps, and border-colors
+- launch.conf controls apps on launch
+- monitors.conf controls monitor settings
+- hyprland.conf, of course, brings everything together
 
 ## how to do it
 *it's a breeze*

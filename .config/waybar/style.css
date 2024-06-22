@@ -89,7 +89,7 @@ button:hover {
 #mpd {
     padding: 0 10px;
     color: #D08C83;
-    border-radius: 10px;
+    border-radius: 0;
 }
 
 #window,
@@ -223,7 +223,7 @@ label:focus {
 }
 
 #idle_inhibitor {
-    background-color: #2d3436;
+    background-color: #101314;
 }
 
 #idle_inhibitor.activated {
@@ -282,6 +282,7 @@ label:focus {
 
 #privacy {
     padding: 0;
+    background-color: #101314;
 }
 
 #privacy-item {
